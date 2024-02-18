@@ -61,7 +61,7 @@ public class Main {
         float kNew = kristina * (float) rise + kristina;
         System.out.println("Маша теперь получает " + mNew + " рублей. Годовой доход вырос на " + masha * rise * 12 + " рублей.");
         System.out.println("Денис теперь получает " + dNew + " рублей. Годовой доход вырос на " + denis * rise * 12 + " рублей.");
-        System.out.println("Кристина теперь получает " + kNew + " рублей. Годовой доход вырос на " + kristina * rise * 12 + " рублей.");
+        System.out.println("Кристина теперь получает " + kNew + " рублей. Годовой доход вырос на " + kristina * rise * 12 + " рублей!");
 
 
 
